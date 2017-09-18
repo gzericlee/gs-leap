@@ -16,6 +16,7 @@
     </properties>
 
     <build>
+        <finalName>java_test</finalName>
         <plugins>
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
